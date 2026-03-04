@@ -5,3 +5,5 @@
 /clover.xml
 /docs/phpdoc-*
 composer.lock
+coverage.xml
+.phpunit.result.cache
