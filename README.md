@@ -2,7 +2,7 @@
 These traits gather some commons methods of classes implementing fluent syntax.
 
 ## Quality
-[![Build Status](https://travis-ci.org/jclaveau/php-fluent-traits.png?branch=master)](https://travis-ci.org/jclaveau/php-fluent-traits)
+[![CI](https://github.com/jclaveau/php-fluent-traits/actions/workflows/tests.yml/badge.svg)](https://github.com/jclaveau/php-fluent-traits/actions/workflows/tests.yml)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jclaveau/php-fluent-trait/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jclaveau/php-fluent-trait/?branch=master)
 
 ## Installation
